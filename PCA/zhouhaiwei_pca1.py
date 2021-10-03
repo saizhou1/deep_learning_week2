@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 -------------------------------------------------
-# @Project  :principal component analysis
+# @Project  :principal component analysis 
 # @File     :zhouhaiwei_pca1
 # @Date     :2021/10/2 22:21
 # @Author   :sai
