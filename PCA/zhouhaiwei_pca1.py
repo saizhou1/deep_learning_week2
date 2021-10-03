@@ -5,7 +5,7 @@
 # @File     :zhouhaiwei_pca1
 # @Date     :2021/10/2 22:21
 # @Author   :sai
-# @Software :PyCharm
+# @Software :PyCharm 
 -------------------------------------------------
 调包实现PCA
 """
