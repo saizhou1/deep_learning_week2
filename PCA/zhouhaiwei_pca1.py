@@ -20,7 +20,7 @@ import matplotlib.pyplot as plt
 
 def compute_pca(n_components=2, last=6, step=10):
     '''
-    计算数据集后last个特征前2个主成分的累计贡献率占比，时间窗口和步长均为10
+    计算数据集后last个特征前2个主成分的累计贡献率占比,时间窗口和步长均为10
     :param n_components:取前主成分的个数
     :param last:数据集取最后几个特征
     :param step:时间窗口长度
